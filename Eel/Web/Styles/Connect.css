@@ -1,0 +1,26 @@
+.container {
+    margin: auto;
+    text-align: center;
+    font-family: monospace;
+    border: 2px solid black;
+    width: 40%;
+}
+
+.container h1 {
+    text-decoration: underline;
+}
+
+.container label {
+    font-weight: bold;
+}
+
+.container input {
+    width: 250px;
+    height: 25px;
+}
+
+#Connect,
+#Exit {
+    width: 125px;
+    height: 35px;
+}
